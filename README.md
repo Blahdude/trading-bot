@@ -1,0 +1,1 @@
+Trading bot that scans the Reddit communities and evaluates sentiment on Bitcoin to determine buy/sell trades. Here is a chart as evidence of Reddit community sentiment with stock performance:<img width="1259" alt="Screenshot 2024-06-22 at 7 28 26 PM" src="https://github.com/Blahdude/trading-bot/assets/84264585/5d790f09-7546-48fa-99e1-4110814daf93">
