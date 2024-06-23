@@ -1,0 +1,8 @@
+numpy==1.26.4
+matplotlib
+alpaca-py
+pandas
+transformers
+playwright
+scipy
+requests
