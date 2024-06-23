@@ -6,3 +6,4 @@ transformers
 playwright
 scipy
 requests
+torch
